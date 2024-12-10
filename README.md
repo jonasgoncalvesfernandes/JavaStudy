@@ -1,5 +1,5 @@
 # JavaStudy
-Este repositório contém meus estudos e projetos relacionados à linguagem Java. O objetivo é organizar e compartilhar meu aprendizado durante o curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP Araraquara.
+Este repositório contém meus estudos e projetos relacionados à linguagem Java. O objetivo é organizar e compartilhar meu aprendizado durante o curso de Tecnologia em sistemas pra internet(TSI) no IFSP Araraquara.
 
 Aqui você encontrará:
 
