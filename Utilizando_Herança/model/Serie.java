@@ -27,4 +27,11 @@ public class Serie extends Conteudo {
     public int setEpisodiosPorTemporada(int episodiosPorTemporada) {
         return this.episodiosPorTemporada = episodiosPorTemporada;
     }
+
+    public void exibirInfo() {
+        System.out.println("Título: " + getTitulo());
+        System.out.println("Duração: " + getDuracao() + " minutos");
+        System.out.println("Temporadas: " + getTemporadas());
+        System.out.println("Episodios: " + getEpisodiosPorTemporada());
+    }
 }
