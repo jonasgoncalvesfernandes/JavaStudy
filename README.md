@@ -11,4 +11,4 @@ Projetos desenvolvidos ao longo do curso.
 
 Materiais e referências utilizadas no estudo.
 
-Sinta-se à vontade para explorar, contribuir e sugerir melhorias!!
+Sinta-se à vontade para explorar, contribuir e sugerir melhorias!
